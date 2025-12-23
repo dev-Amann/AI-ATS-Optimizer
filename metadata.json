@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Optimizer",
+  "description": "Analyze your resume against a target job role using AI to get an ATS score, identify missing skills, and receive actionable improvement suggestions.",
+  "requestFramePermissions": []
+}
