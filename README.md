@@ -142,9 +142,6 @@ ats-resume-optimizer/
                                              └──────────────────┘
 ```
 
-## License
-
-MIT
 
 ## Contributing
 
