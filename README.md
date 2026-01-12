@@ -2,7 +2,6 @@
 
 An AI-powered resume analyzer that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS). Get instant feedback on skill matches, missing keywords, and actionable improvements.
 
-![ATS Resume Optimizer Screenshot](https://via.placeholder.com/800x400?text=ATS+Resume+Optimizer)
 
 ## Features
 
